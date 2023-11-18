@@ -1,0 +1,72 @@
+html, body, a, p, h1, h2, h3, h4, h5, h6 {
+    font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+}
+.bodyclass{
+    overflow-x: hidden;
+}
+.logodiv{
+    color: white;
+    
+}
+
+.first_nav{
+    background-color: #230939;
+}
+
+.nav-link{
+    font-size: medium;
+}
+.nav-link:hover{
+    font-size: large;
+    color: white;
+}
+
+.profileicon{
+    margin-left: 125px;
+}
+header{
+    background-color: #3D2462;
+    color: white;
+}
+.navbar li a{
+    color: white;
+}
+.progress-bar{
+    background-color: blue;
+}
+.addbutton1{
+    margin-left: 540px;
+}
+.addbutton2{
+    margin-left: 660px;
+}
+.addbutton3{
+    margin-left: 700px;
+}
+.addbutton4{
+    margin-left: 660px;
+}
+.addbutton5{
+    margin-left: 650px;
+}
+.addbutton6{
+    margin-left: 680px;
+}
+.addbutton7{
+    margin-left: 610px;
+}
+.addbutton8{
+    margin-left: 633px;
+}
+.buttonedit{
+    margin-left: 370px;
+}
+.addbutton9{
+    margin-left: 570px;
+}
+.stdinfo{
+    margin-left: 560px;
+}
+.savebutton{
+    margin-left: 650px;
+}

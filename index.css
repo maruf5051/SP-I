@@ -1,0 +1,151 @@
+html, body, a, p, h1, h2, h3, h4, h5, h6 {
+    font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+}
+
+.mainsection{
+    background-color: #230939;
+    color: white;
+}
+
+.search{
+    position: relative;
+}
+
+
+.icon{
+    position: absolute;
+}
+
+.sikder{
+  background-color:#3D2462;
+}
+
+.resume{
+    text-align: center;
+    margin-top: 20px;
+}
+.resume a{
+    color: rgb(241, 216, 216);
+    font-size: medium;
+}
+
+.maruf{
+    box-sizing: inherit;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    background-color: rgb(61, 36, 98);
+    border: 2px solid rgb(110, 70, 174);
+    border-radius: 8px;
+    padding: 12px 24px;
+    max-height: 68px;
+    text-decoration: none;
+    font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 12px;
+    margin-right: 25px;
+    color: rgb(255, 255, 255);
+}
+.maruf:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(115, 96, 136);
+}
+
+.hero-cardstyle__HeaderCardIconWrap-sc-8gb5fx-8{
+font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+font-weight: 400;
+line-height: 24px;
+color: rgb(255, 255, 255);
+box-sizing: inherit;
+margin: 0px;
+padding: 0px;
+border: 0px;
+outline: 0px;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+display: flex;
+-webkit-box-pack: center;
+justify-content: center;
+-webkit-box-align: center;
+align-items: center;
+flex-shrink: 0;
+height: 40px;
+width: 40px;
+border-radius: 50%;
+background-color: rgb(184, 105, 179);
+}
+
+.MuiBox-root{
+font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+text-align: center;
+box-sizing: inherit;
+margin: 0px;
+padding: 0px;
+border: 0px;
+outline: 0px;
+font-size: 100%;
+vertical-align: baseline;
+background: transparent;
+display: flex;
+-webkit-box-pack: center;
+justify-content: center;
+
+}
+
+.fontsize{
+    font-size: smaller;
+    padding-left: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+.career-advice-sectionstyle__IsTabletAndDesktopOnly-sc-lhwh43-1{
+    font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+    text-align: center;
+    box-sizing: inherit;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    display: block;
+}
+
+.sc-jEACwC{
+box-sizing: inherit;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+overflow: hidden;
+display: inline-flex;
+align-self: stretch;
+border-radius: 8px;
+box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 8px 0px, rgba(0, 0, 0, 0.12) 0px 3px 3px -2px, rgba(0, 0, 0, 0.14) 0px 3px 4px 0px;
+cursor: pointer;
+text-decoration: none;
+color: inherit;
+text-align: left;
+height: 100%;
+}
+
+.sadapart{
+    background-color: white;
+}
+.sadapart h2{
+    color: black;
+}
