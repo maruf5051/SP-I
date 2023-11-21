@@ -70,3 +70,11 @@ header{
 .savebutton{
     margin-left: 650px;
 }
+.navbar-brand{
+    color: white;
+    margin-left: 35px;
+    margin-top: 13px;
+}
+.navbar-brand:hover{
+    color: white;
+}
