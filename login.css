@@ -1,6 +1,9 @@
 html, body, a, p, h1, h2, h3, h4, h5, h6 {
     font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
 }
+body{
+    overflow-x: hidden;
+}
 .first_nav{
     background-color: #230939;
 }
@@ -35,4 +38,7 @@ header{
     color: white;
     margin-left: 35px;
     margin-top: 13px;
+}
+.navbar-brand:hover{
+    color: white;
 }
